@@ -1,0 +1,156 @@
+body
+{
+background: rgba(0,0,0,.8);
+}
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 0px;
+  border: 1px solid transparent;
+}
+.navbar {
+    border-radius: 0px;
+}
+.tombol
+{
+	margin: 0; 
+	padding: 0;
+	margin-top: 30px;
+}
+.paragrap
+{
+	padding: 0;
+	position: absolute;
+	top: 100px;
+	left: 150px;
+}
+.paragrap > h2
+{
+	color: white;
+	margin:0;
+	padding: 0;
+}
+.btn
+{
+	font-size: 20px;
+}
+.formform
+{
+	position: absolute;
+	top: 380px;
+	left: 200px;
+	margin-right: 0;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 10px 10px;
+	margin-top: 10px; 
+	background: rgba(0,0,0,0.3);
+	border-radius: 10px;
+	width: 500px;
+}
+.form
+{
+	position: absolute;
+	top: 500px;
+	left: 700px;
+	margin-right: 0;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 10px 10px;
+	margin-top: 10px; 
+	background: rgba(0,0,0,0.3);
+	border-radius: 10px;
+	width: 1000px;
+}
+.form > h2
+{
+	color: white;
+}
+.form label
+{
+	color: white;
+}
+
+.leftform
+{
+	padding-left: 10px;
+	border-radius: 10px;
+	position: absolute;
+	top: 160px;
+	left: 500px;
+	width: 500px;
+	height: 550px;
+	background:rgba(0,0,0,.6);
+}
+.formform label
+{
+	color: white;
+}
+.datata
+{
+	position: absolute;
+	top: 80px;
+	left: 0px;
+	padding: 0;
+	border-radius: 10px;
+	width: 100%;
+	background: rgba(0,0,0,.2);
+}
+.datata > h2
+{
+	color: white;
+	margin:0;
+	padding: 0;
+}
+.datata th , td
+{
+	color: white;
+	margin:0;
+	padding: 15px;
+	text-align: left;
+}
+.isi
+{
+	margin: 0;
+	padding: 0;
+	width: 300px;
+	width: 300px;
+
+}
+.langkah
+{
+	background-color: white;
+	width: 400px;
+	height: 40px;
+	border-radius: 10px;
+}
+.dataad
+{
+	position: absolute;
+	top: 100px;
+	left: 20px;
+	margin-right: 10px;
+	padding: 0;
+	border-radius: 10px;
+	width: 1000px;
+	background: rgba(255,255,255,.5);
+}
+.dataad table
+{
+width: 100%;
+}
+.dataad > h2
+{
+	color: white;
+	margin:0;
+	padding: 0;
+}
+.dataad th , td
+{
+	color: black;
+	margin:0;
+	padding: 15px;
+	text-align: left;
+}
+.dataad tr:nth-child(even) 
+{background-color: #f2f2f2;}
